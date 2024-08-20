@@ -1,11 +1,11 @@
 # JPMorgan_Stock_Price_Prediction
 
 <p align="center">
-  # Welcome to the Stock Price Prediction with LSTM repository! 📈
+  <strong style="font-size: 24px;">Welcome to the Stock Price Prediction with LSTM repository! 📈</strong>
 </p>
 
 <p align="center">
-  <img src="Images/stock-chart.jpg" alt="Description of Image" width="600"/>
+  <img src="Images/stock-chart.jpg" alt="Description of Image" width="800"/>
 </p>
 
 

@@ -3,10 +3,9 @@
 <p align="center">
   # Welcome to the Stock Price Prediction with LSTM repository! 📈
 </p>
-![LSTM Model Predictions](Images/stock-chart.jpg)
 
 <p align="center">
-  <img src="Images/stock-chart.jpg" alt="Description of Image" width="300"/>
+  <img src="Images/stock-chart.jpg" alt="Description of Image" width="600"/>
 </p>
 
 

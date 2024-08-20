@@ -3,8 +3,8 @@
 <p align="center">
   # Welcome to the Stock Price Prediction with LSTM repository! 📈
 </p>
-
-<p align="center"> ![LSTM Model Predictions](Images/stock-chart.jpg) </p>
+![LSTM Model Predictions](Images/stock-chart.jpg)
+<p align="center"> <img src="Images/stock-chart.jpgE" alt="Description of Image" width="300"/> </p>
 
 <p align="center"> In the fast-paced world of finance, making informed decisions can be the difference between profit and loss. This project harnesses the power of cutting-edge deep learning techniques to predict stock market trends, providing valuable insights that can guide your investment strategies.
 

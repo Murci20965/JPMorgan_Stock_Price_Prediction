@@ -43,6 +43,8 @@ The following graph displays the closing prices of the stock over time. This his
 </p>
 Figure 1: Closing Price of the Stock
 
+
+
 2. **Moving Averages of the Stock**
 The moving averages provide insight into the stock's trend over different periods. The following chart illustrates these moving averages along with the actual closing prices.
 
@@ -51,6 +53,8 @@ The moving averages provide insight into the stock's trend over different period
 </p>
 Figure 2: Moving Averages of the Stock
 
+
+
 3. **Model's Price Predictions vs. Actual Prices**
 This chart compares the LSTM model's price predictions with the actual stock prices, showing the effectiveness of the model in forecasting.
 
@@ -58,5 +62,11 @@ This chart compares the LSTM model's price predictions with the actual stock pri
   <img src="Images/LSTM_Model_Predictions_vs_Actual_Prices.png" alt="Model's Price Predictions vs. Actual Prices" width="800"/>
 </p>
 Figure 3: Model's Price Predictions vs. Actual Prices
+
+## Summary
+
+<p align="center">
+  <strong style="font-size: 24px;"> This repository showcases a project for predicting stock prices using Long Short-Term Memory (LSTM) networks. It includes code for training LSTM models, analyzing stock price data, and evaluating model performance. Key visualizations include historical stock prices, moving averages, and comparisons between predicted and actual prices. The project aims to provide valuable insights into JPMorgan & Co. stock market trends and support informed investment decisions through advanced deep learning techniques. </strong>
+</p>
 
 
